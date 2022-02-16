@@ -40,7 +40,7 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "Faculté des sciences de Tunis",
+        "school": "Faculty of science Tunis",
         "degree": "Master degree,Computer science",
         "graduated": "December 2021",
         "description": ""
@@ -51,7 +51,7 @@
         "company": "Rec-inov",
         "title": "Intership",
         "years": "April 2021",
-        "description": "develop skills management web application"
+        "description": "develop skills management web application (MERN stack)"
       }
     ],
     "skills": [
