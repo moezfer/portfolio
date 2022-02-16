@@ -88,22 +88,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Github Finder (React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "snapchat.PNG",
+        "url": "https://githubfindermoez.tk/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "House Marketplace (React JS)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "gmail.PNG",
+        "url": "https://confident-lalande-cea7a0.netlify.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Feedback App (React JS)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "linkedin.PNG",
+        "url": "https://angry-brattain-ed5171.netlify.app/"
       }
     ]
   },
